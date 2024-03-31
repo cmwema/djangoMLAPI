@@ -1,0 +1,16 @@
+Dependents,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Gender_Female,Gender_Male,Married_No,Married_Yes,Education_Graduate,Education_Not Graduate,Self_Employed_No,Self_Employed_Yes,Property_Area_Rural,Property_Area_Semiurban,Property_Area_Urban
+3.0,7534,0.0,120000,240.0,1.0,False,True,False,False,False,True,True,True,False,True,True
+0.0,4378,4096.0,204606,120.0,1.0,False,True,False,True,True,False,True,False,True,False,True
+1.0,4583,4196.0,144107,360.0,0.0,True,True,False,False,False,False,False,True,False,True,True
+3.0,8283,6952.0,128000,360.0,1.0,False,True,False,True,True,False,False,False,False,True,True
+1.0,5078,4173.0,161148,360.0,1.0,False,True,True,False,True,True,True,False,False,False,False
+3.0,5080,4717.0,84900,120.0,1.0,False,True,False,True,True,True,True,False,False,False,False
+0.0,7423,2135.0,74788,360.0,1.0,True,False,False,False,False,True,False,False,True,True,True
+0.0,6000,0.0,261516,240.0,1.0,False,True,True,True,True,False,False,False,False,False,True
+0.0,18353,2358.0,83112,360.0,0.0,True,True,False,True,False,False,False,False,False,False,True
+2.0,3000,1508.0,141000,240.0,1.0,True,False,True,True,True,False,False,False,False,True,True
+1.0,5417,2750.0,66000,360.0,0.0,False,True,False,True,True,True,False,False,True,False,True
+2.0,14251,3825.0,55141,180.0,1.0,False,True,False,True,False,False,False,True,False,False,True
+1.0,2583,497.0,272350,240.0,1.0,False,False,False,False,True,False,True,True,True,True,True
+0.0,7412,2066.0,267000,360.0,1.0,False,True,True,False,True,True,False,True,True,False,True
+0.0,13186,6661.0,262433,360.0,1.0,False,True,False,True,False,True,False,False,False,False,False
